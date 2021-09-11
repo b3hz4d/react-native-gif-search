@@ -32,7 +32,7 @@ This package uses the [Giphy API](https://developers.giphy.com/docs/api/) so you
 ## Installation
 
 ```
-npm install react-native-gif-search --save
+npm install @b3hz4d/react-native-gif-search --save
 ```
 
 ### Android
